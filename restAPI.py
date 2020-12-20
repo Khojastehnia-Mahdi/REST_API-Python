@@ -1,5 +1,4 @@
 # Mahdi Khojastehnia - Dec 19, 2020 
-# khojastehnia.m@gmail.com - mkhoj015@uottawa.ca
 
 
 # --------------------------------------------------------------------
